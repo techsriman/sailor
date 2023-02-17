@@ -2,7 +2,6 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: sailorpod
-  appVersion: 1.0
 spec:
   containers:
     - name: sailor
